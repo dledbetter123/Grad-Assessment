@@ -25,6 +25,6 @@ The Character-Aware Neural Language Model presents a nuanced approach to languag
 ## References
 For the references, you can use a GitHub-flavored markdown citation style or link directly to the papers or resources you are referring to. Here's an example of how you might format a reference to the paper by Kim et al. (2016):
 
-- Kim, Y., Jernite, Y., Sontag, D., & Rush, A. M. (2016). *Character-Aware Neural Language Models.* [Link to paper](http://example.com/)
+- Kim, Y., Jernite, Y., Sontag, D., & Rush, A. M. (2016). *Character-Aware Neural Language Models.* [Link to paper]([http://example.com/](https://cdn.aaai.org/ojs/10362/10362-13-13890-1-2-20201228.pdf))
 
 Please replace the example link with the actual URL to the paper.
