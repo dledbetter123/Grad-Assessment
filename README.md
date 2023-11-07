@@ -24,4 +24,4 @@ The Character-Aware Neural Language Model presents a nuanced approach to languag
 
 ## References
 
-- Kim, Y., Jernite, Y., Sontag, D., & Rush, A. M. (2016). *Character-Aware Neural Language Models.* [Link to paper]([http://example.com/](https://cdn.aaai.org/ojs/10362/10362-13-13890-1-2-20201228.pdf))
+- Kim, Y., Jernite, Y., Sontag, D., & Rush, A. M. (2016). *Character-Aware Neural Language Models.* [Link to paper](https://cdn.aaai.org/ojs/10362/10362-13-13890-1-2-20201228.pdf)
