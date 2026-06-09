@@ -1,0 +1,1 @@
+This neural network combines the power of convolutional neural networks and transformers to embed and model language at the character level. The model achieved a 3% reduction in a confusion metric on models of the same size in the paper on which it was based.
